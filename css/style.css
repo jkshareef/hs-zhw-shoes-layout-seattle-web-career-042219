@@ -163,7 +163,9 @@ iframe {
   
 }
 
-.col-1 
+.col-1 first{
+  margin-left: 0%
+}
 
 .col-2 {
   width: 66%;

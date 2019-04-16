@@ -136,6 +136,20 @@ iframe {
 
 /********** Header **********/
 
+/******Columns*******/
+
+.col-1 {
+  width: 32%;
+}
+
+.col-2 {
+  width: 66%;
+}
+
+.col-3 {
+  width: 100%;
+}
+
 /********** Nav Bar **********/
 
 #nav_bar {

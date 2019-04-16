@@ -150,16 +150,19 @@ iframe {
   width: 32%;
   float: left;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 .col-2 {
   width: 66%;
   float: left;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 .col-3 {
   background: #ccc
+  box-sizing: border-box;
 }
 
 /********** Nav Bar **********/

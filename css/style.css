@@ -173,6 +173,10 @@ iframe {
   margin-left: 2%;
 }
 
+.col-1 first {
+  margin-left: 0%;
+}
+
 .col-3 {
   background: #ccc;
 }

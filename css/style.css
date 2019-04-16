@@ -172,6 +172,7 @@ iframe {
   width: 32%;
   float: left;
   margin-left: 0%;
+  clear: left;
 }
 
 .col-2 {
